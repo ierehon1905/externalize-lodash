@@ -33,7 +33,7 @@ Inside your webpack config
 ```js
 externals: [
   {...} // your config,
-  require('webpack-externalize-lodash')
+  require('webpack-externalize-lodash-fp')
 ]
 ```
 
