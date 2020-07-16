@@ -47,7 +47,7 @@ describe('externalize-lodash', () => {
     });
     await page.evaluate(() => window.run());
 
-    expect(passMsg.length).toBe(6);
+    expect(passMsg.length).toBe(12);
     expect(failMsg.length).toBe(0);
   });
 });
