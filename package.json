@@ -23,6 +23,10 @@
   "contributors": [
     "Leon Minasyan <ierehon1905@gmail.com>"
   ],
+  "repository": {
+    "url": "https://github.com/ierehon1905/externalize-lodash",
+    "type": "git"
+  },
   "license": "MIT",
   "devDependencies": {
     "http-server": "^0.12.3",
